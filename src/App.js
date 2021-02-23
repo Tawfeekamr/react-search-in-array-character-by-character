@@ -38,6 +38,7 @@ function App() {
     <div className="App">
       <form onSubmit={onSubmit} className="search-form">
         <div className="search-field">
+            <label>Input Your search term: </label>
           <input
               className="search-input"
               type="text"
