@@ -1,7 +1,7 @@
 # React JS search in Array (character by character) in real-time
 
 This project to solve react search in array character by character), to get filtered array that contain the search result.
-using Functional component.
+using Functional component and Class based Component.
 
 ## Available Scripts
 
